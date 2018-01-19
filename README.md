@@ -30,3 +30,5 @@ Formado por alunos do curso de Bacharelado em Sistemas de Informação da Univer
 - Felipe Caetano
 - Hermano Costa
 - Monica Alves
+- Genilton Cleiton
+- Ulysses Duarte  
